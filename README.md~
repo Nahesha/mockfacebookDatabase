@@ -1,12 +1,14 @@
 # mockfacebookDatabase
 ==========================================
 Nahesha Paulection
-Aaron Wink
-Stephen Clabaugh II
-==========================================
+<br>Aaron Wink
+<br>Stephen Clabaugh II
+
 
 Documentation:
+===========
 The purpose of this project was to replicate to the best of our abilities a variation of facebook. The database can:
+
 Users
 ========= 
 - edit themselves
@@ -14,10 +16,10 @@ Users
 
 Posts
 ==========
--add posts
--delete posts
--edit posts
--tag users
--a variation of reactions
+- add posts
+- delete posts
+- edit posts
+- tag users
+- a variation of reactions
 
 
