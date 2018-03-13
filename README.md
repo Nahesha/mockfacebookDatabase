@@ -1,21 +1,21 @@
 # mockfacebookDatabase
-===========
+
 <br>Nahesha Paulection
 <br>Aaron Wink
 <br>Stephen Clabaugh II
 
 
-Documentation:
-===========
+#Documentation:
+
 The purpose of this project was to replicate to the best of our abilities a variation of facebook. The database can:
 
-Users
-========= 
+#Users
+ 
 - edit themselves
 - delete themselves
 
-Posts
-==========
+#Posts
+
 - add posts
 - delete posts
 - edit posts
