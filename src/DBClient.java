@@ -1,7 +1,7 @@
 /**
  * @class CSC371 - Databases
  * @professor Dr. Mooney
- * @author Aaron Wink (Code Overlord), Nahesha Paulection, Stephen Clabaugh
+ * @author Aaron Wink, Nahesha Paulection, Stephen Clabaugh
  * @date_modified May 10, 2017
  * @description A client for the group's Mock Facebook Database.
  */
